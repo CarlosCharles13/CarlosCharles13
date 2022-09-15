@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CarlosCharles13
+- 👀 I’m interested in you
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on Microsoft
